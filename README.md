@@ -17,4 +17,4 @@
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="git" width="50"/>
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=AdamHopeful&theme=codeSTACKr&show_icons=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=Zehra&theme=codeSTACKr&show_icons=true" >
