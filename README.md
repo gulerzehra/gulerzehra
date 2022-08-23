@@ -20,15 +20,21 @@
 	
 </p>
 
-<p align="center"><b>   Thank You for visiting my profile 🙏</b></p>
-
-
 
 <div align="center">
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=gulerzehra&theme=react-dark" />
   </a>
 </div>
+
+
+
+
+<p align="center"><b>   Thank You for visiting my profile 🙏</b></p>
+
+
+
+
 
 
 
