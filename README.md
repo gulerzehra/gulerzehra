@@ -20,7 +20,7 @@
 	
 </p>
 
-<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+<p align="center"><b>   Thank You for visiting my profile 🙏</b></p>
 
 
 
