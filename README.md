@@ -14,10 +14,6 @@
 </div>
 
 
-
-
-
-
 <p align="center">
 	<a href="https://github.com/gulerzehra" ><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/zehra-g%C3%BCler/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
@@ -26,6 +22,13 @@
 
 <p align="center"><b>   Thank You for visiting my profile 🙏</b></p>
 
+
+
+<div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=gulerzehra&theme=react-dark" />
+  </a>
+</div>
 
 
 
