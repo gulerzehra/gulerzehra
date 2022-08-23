@@ -14,8 +14,6 @@
 </div>
 
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
 
 
 
