@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/zehra-g%C3%BCler/ ) 
 </p>
 
-<img src="./images/computer.gif" width="100%"/>
+<img src="computer.gif" width="100%"/>
 
 
 
