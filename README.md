@@ -22,11 +22,7 @@
 
 <p align="center"><b> Thank You for visiting my profile 🙏</b></p>
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gulerehra}/count.svg" /></p> 
-<br>
 
 
 
