@@ -4,9 +4,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/zehra-g%C3%BCler/ ) 
 </p>
-![computer](https://user-images.githubusercontent.com/108305592/186128829-f7a520ee-6054-4ee2-b407-a45c34f9369a.gif)
 
-<img src="computer.gif" width="100%"/>
 
 
 
