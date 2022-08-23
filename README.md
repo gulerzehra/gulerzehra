@@ -14,6 +14,14 @@
 </div>
 
 
+## 📈 Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetcng33&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcng33&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcng33&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+
+
 <p align="center">
 	<a href="https://github.com/gulerzehra" ><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/zehra-g%C3%BCler/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
